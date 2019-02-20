@@ -1,0 +1,25 @@
+{
+  "bitwise": true,
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "immed": true,
+  "latedef": false,
+  "newcap": true,
+  "noarg": true,
+  "nonew": false,
+  "quotmark": "single",
+  "undef": true,
+  "unused": false,
+  "devel": true,
+  "trailing": true,
+  "browser": true,
+  "debug": true,
+  "validthis": true,
+  "laxcomma": true,
+  "globals": {
+    "Phaser": true,
+    "zk": true
+  }
+}
